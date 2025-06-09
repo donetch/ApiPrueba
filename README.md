@@ -38,7 +38,6 @@ Esta entrega contempla el diseño de la arquitectura, definición de requerimien
 - Se creó un módulo de autenticación en Angular, separado y reutilizable.
 - Se mejoró la gestión de estado del usuario autenticado.
 - Se desarrolló un panel administrativo básico para la gestión de productos y promociones.
-- Se agregó una base de datos relacional para persistencia de usuarios y productos.
 ---
 
 ## Requerimientos
@@ -281,8 +280,6 @@ link de apoyo https://www.canva.com/design/DAGlO_EwYPM/n5XAu4L9lEuTTDRuS4Kz9w/ed
 - **Node.js**: Entorno de ejecución para JavaScript en el servidor.
 - **Express.js**: Framework para la creación de APIs REST.
 - **jsonwebtoken**: Generación y verificación de tokens JWT.
-- **bcryptjs**: Encriptación de contraseñas.
-- **dotenv**: Manejo de variables de entorno.
 - **cors**: Configuración de políticas de acceso entre dominios.
 
 ---
@@ -322,6 +319,5 @@ Para correr este proyecto en tu máquina local, sigue los siguientes pasos:
 Debes tener Node.js y Ionic instalados antes de ejecutar npm install y ionic serve.
 ---
 🔌 Puertos en Localhost
-Frontend (Página Web): http://localhost:8100
-
-Backend (API REST): http://localhost:3000
+- Frontend (Página Web): http://localhost:8100
+- Backend (API REST): http://localhost:3000
