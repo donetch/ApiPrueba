@@ -301,7 +301,7 @@ Para correr este proyecto en tu máquina local, sigue los siguientes pasos:
     ```
 
     ```
-    cd proyectorokubi
+    cd ApiPrueba
     ```
 
 3. Instala las dependencias:
@@ -313,7 +313,7 @@ Para correr este proyecto en tu máquina local, sigue los siguientes pasos:
 4. Corre la aplicación:
 
     ```
-    ionic serve
+    npm run start
     ```
 
 Debes tener Node.js y Ionic instalados antes de ejecutar npm install y ionic serve.
