@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "categoriaId": 1,
+    "name": "KeyCaps Blancas",
+    "image": "assets/images/producto1.jpg",
+    "altText": "Teclas para teclados",
+    "stock": 12,
+    "precio": "10.00",
+    "valoracion": 8
+  },
+  {
+    "id": 2,
+    "categoriaId": 1,
+    "name": "KeyCaps Negras",
+    "image": "assets/images/producto2.jpeg",
+    "altText": "Switches para teclados",
+    "stock": 17,
+    "precio": "10.00",
+    "valoracion": 5
+  },
+  {
+    "id": 3,
+    "categoriaId": 1,
+    "name": "KeyCaps Rojas",
+    "image": "assets/images/producto3.jpg",
+    "altText": "Marco para teclados",
+    "stock": 3,
+    "precio": "10.00",
+    "valoracion": 9
+  },
+  {
+    "id": 4,
+    "categoriaId": 1,
+    "name": "KeyCaps Azules",
+    "image": "assets/images/producto3.jpg",
+    "altText": "Marco para teclados",
+    "stock": 25,
+    "precio": "10.00",
+    "valoracion": 7
+  },
+  {
+    "id": 5,
+    "categoriaId": 1,
+    "name": "KeyCaps Verdes",
+    "image": "assets/images/producto3.jpg",
+    "altText": "Marco para teclados",
+    "stock": 10,
+    "precio": "10.00",
+    "valoracion": 4
+  },
+  {
+    "id": 6,
+    "name": "Producto de prueba",
+    "categoriaId": 1,
+    "image": "ruta.jpg",
+    "altText": "texto alt",
+    "stock": 20,
+    "precio": "9.99",
+    "valoracion": 4.5
+  },
+  {
+    "id": 7,
+    "categoriaId": 0,
+    "name": "Mouse Gamer RGB",
+    "image": null,
+    "altText": "Mouse con retroiluminación RGB y 6 botones",
+    "stock": 25,
+    "precio": "19.99",
+    "valoracion": -1
+  },
+  {
+    "id": 8,
+    "categoriaId": 1,
+    "name": "KeyCap Magenta",
+    "image": null,
+    "altText": "KeyCaps Magenta Brillante",
+    "stock": 100,
+    "precio": 99999,
+    "valoracion": -1
+  },
+  {
+    "id": 9,
+    "categoriaId": 0,
+    "name": "Mouse Azul",
+    "image": null,
+    "altText": "Mouse Azul y 3 botones",
+    "stock": 15,
+    "precio": "10.99",
+    "valoracion": -1
+  },
+  {
+    "id": 10,
+    "categoriaId": 0,
+    "name": "Peluche de Carlos",
+    "image": null,
+    "altText": "Peluche chiquito",
+    "stock": 1,
+    "precio": "0.99",
+    "valoracion": -1
+  }
+]

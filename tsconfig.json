@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",          // Usa una versión moderna de JavaScript
+    "module": "commonjs",        // Para Node.js (CommonJS)
+    "outDir": "./dist",          // Carpeta donde se guardarán los archivos compilados (.js)
+    "rootDir": "src",          // Carpeta fuente (donde está tu código TypeScript)
+    "strict": true,             // Habilita todas las verificaciones de tipo estrictas
+    "esModuleInterop": true,     // Compatibilidad mejorada con módulos de CommonJS/ES
+    "skipLibCheck": true,        // Omite la verificación de tipos en librerías (mejora rendimiento)
+    "forceConsistentCasingInFileNames": true,  // Evita errores por mayúsculas/minúsculas en imports
+    "moduleResolution": "node",  // Estrategia de resolución de módulos (necesario para Node.js)
+    "resolveJsonModule": true    // Permite importar archivos JSON
+  },
+  "include": ["src/**/*.ts"],    // Incluye todos los archivos .ts en la carpeta src
+  "exclude": ["node_modules"]    // Excluye esta carpeta
+}

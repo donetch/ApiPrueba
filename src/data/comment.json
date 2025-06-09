@@ -1,0 +1,29 @@
+[
+  {
+    "idComentario": 0,
+    "idProduct": 1,
+    "nameUsuario": "Ben Dover",
+    "avatar": "assets/images/producto2.jpeg",
+    "nameProducto": "Teclado perosonalizado",
+    "textoComentario": "Más que un teclado, una sensación",
+    "valoracion": 5
+  },
+  {
+    "idComentario": 1,
+    "idProduct": 1,
+    "nameUsuario": "Anita Dick",
+    "avatar": "assets/images/producto2.jpeg",
+    "nameProducto": "Switch tactile blanco",
+    "textoComentario": "Una locura estos switches, nunca había sentido algo asi",
+    "valoracion": 4.5
+  },
+  {
+    "idComentario": 2,
+    "idProduct": 2,
+    "nameUsuario": "Dixon Mayas",
+    "avatar": "assets/images/producto2.jpeg",
+    "nameProducto": "Teclado perosonalizado",
+    "textoComentario": "Teclado bueno, le encantó a mi nieto",
+    "valoracion": 5
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "rut": 12345678,
+    "name": "Ben Dover",
+    "mail": "ben.dover@example.com",
+    "region": "Región Metropolitana",
+    "comuna": "Santiago",
+    "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
+    "avatar": "assets/images/producto2.jpeg"
+  },
+  {
+    "id": 2,
+    "rut": 23456789,
+    "name": "Anita Dick",
+    "mail": "anita.dick@example.com",
+    "region": "Región de Valparaíso",
+    "comuna": "Viña del Mar",
+    "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
+    "avatar": "assets/images/producto2.jpeg"
+  },
+  {
+    "id": 3,
+    "rut": 34567890,
+    "name": "Dixon Mayas",
+    "mail": "dixon.mayas@example.com",
+    "region": "Región del Biobío",
+    "comuna": "Concepción",
+    "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
+    "avatar": "assets/images/producto2.jpeg"
+  },
+  {
+    "id": 4,
+    "rut": 2003678207,
+    "name": "Carlos",
+    "mail": "carlos.aguirre.s@mail.pucv.cl",
+    "region": "Región Metropolitana",
+    "comuna": "Santiago",
+    "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
+    "avatar": "assets/images/producto2.jpeg"
+  },
+  {
+    "id": 5,
+    "rut": 20806271,
+    "name": "Javier",
+    "mail": "javier.donetch.s@mail.pucv.cl",
+    "region": "Región Metropolitana",
+    "comuna": "Santiago",
+    "password": "ed26d2a6ce69a3dd85f35eb43ac74f798af814f354bcf2e930764a97e3e77caa",
+    "avatar": "assets/images/producto2.jpeg"
+  }
+]

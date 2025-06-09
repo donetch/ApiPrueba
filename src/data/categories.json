@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Todos",
+    "image": "assets/images/producto1.jpg",
+    "description": "Son todos nuestros productos a la venta",
+    "altText": "Teclas para teclados"
+  },
+  {
+    "id": 1,
+    "name": "KeyCaps",
+    "image": "assets/images/producto1.jpg",
+    "description": "Son las tapas de las teclas. La parte que tocas con los dedos, normalmente con letras, números o símbolos impresos.",
+    "altText": "Teclas para teclados"
+  },
+  {
+    "id": 2,
+    "name": "Switches",
+    "image": "assets/images/producto2.jpeg",
+    "description": "Detectan la pulsación y determinan la sensación (clicky, suave, etc.) y la respuesta del teclado.",
+    "altText": "Switches para teclados"
+  },
+  {
+    "id": 3,
+    "name": "Carcasa",
+    "image": "assets/images/producto3.jpg",
+    "description": "Es la estructura externa del teclado. Sostiene todas las partes internas y le da forma, estabilidad y estética al teclado.",
+    "altText": "Marco para teclados"
+  },
+  {
+    "id": 4,
+    "name": "Nuevo",
+    "image": "assets/images/producto3.jpg",
+    "description": "Es la estructura externa del teclado. Sostiene todas las partes internas y le da forma, estabilidad y estética al teclado.",
+    "altText": "Marco para teclados"
+  }
+]
