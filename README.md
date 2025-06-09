@@ -291,14 +291,10 @@ Para correr este proyecto en tu máquina local, sigue los siguientes pasos:
 1. Clona este repositorio:
 
     ```
-    git clone https://github.com/Matthias-W09/Tienda-E-commerce-Teclados-Personalizados.git
+    git clone https://github.com/donetch/ApiPrueba.git
     ```
 
 2. Navega al directorio del proyecto:
-
-    ```
-    cd Tienda-E-commerce-Teclados-Personalizados
-    ```
 
     ```
     cd ApiPrueba
@@ -313,7 +309,7 @@ Para correr este proyecto en tu máquina local, sigue los siguientes pasos:
 4. Corre la aplicación:
 
     ```
-    npm run start
+    npm run dev
     ```
 
 Debes tener Node.js y Ionic instalados antes de ejecutar npm install y ionic serve.
