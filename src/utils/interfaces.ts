@@ -7,6 +7,7 @@ export interface Usuario {
   comuna: string;
   password: string;
   avatar: string | null;
+  rol: number;
 }
 
 export interface Producto {

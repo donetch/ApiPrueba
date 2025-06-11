@@ -49,7 +49,8 @@ export const registrarUsuario = (req: Request, res: Response) => {
     region: nuevoUsuario.region,
     comuna: nuevoUsuario.comuna,
     password: passwordHash,
-    avatar: nuevoUsuario.avatar
+    avatar: nuevoUsuario.avatar,
+    rol: 1
   };
 
   usuarios.push(nuevo);
@@ -77,7 +78,7 @@ export const loginUsuario = (req: Request, res: Response) => {
     return res.status(401).json({ error: 'Contraseña incorrecta' });
   }
 
-  const token = jwt.sign({ id: usuario.id, email: usuario.mail }, JWT_SECRET, {
+  const token = jwt.sign({ id: usuario.id, name: usuario.name, rol: usuario.rol }, JWT_SECRET, {
     expiresIn: '1h'
   });
 
@@ -90,3 +91,15 @@ export const obtenerUsuarioAutenticado = (req: Request, res: Response) => {
     usuario: (req as any).usuario
   });
 };
+
+export const getUsuarioDesdeToken = (req: Request, res: Response) => {
+  const { id, name, rol } = (req as any).usuario;
+
+  res.json({
+    usuario: {
+      id,
+      name,
+      rol
+    }
+  });
+}

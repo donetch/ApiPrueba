@@ -7,7 +7,8 @@
     "region": "Región Metropolitana",
     "comuna": "Santiago",
     "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
-    "avatar": "assets/images/producto2.jpeg"
+    "avatar": "assets/images/producto2.jpeg",
+    "rol": 1
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "region": "Región de Valparaíso",
     "comuna": "Viña del Mar",
     "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
-    "avatar": "assets/images/producto2.jpeg"
+    "avatar": "assets/images/producto2.jpeg",
+    "rol": 1
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "region": "Región del Biobío",
     "comuna": "Concepción",
     "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
-    "avatar": "assets/images/producto2.jpeg"
+    "avatar": "assets/images/producto2.jpeg",
+    "rol": 1
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "region": "Región Metropolitana",
     "comuna": "Santiago",
     "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5",
-    "avatar": "assets/images/producto2.jpeg"
+    "avatar": "assets/images/producto2.jpeg",
+    "rol": 0
   },
   {
     "id": 5,
@@ -47,6 +51,7 @@
     "region": "Región Metropolitana",
     "comuna": "Santiago",
     "password": "ed26d2a6ce69a3dd85f35eb43ac74f798af814f354bcf2e930764a97e3e77caa",
-    "avatar": "assets/images/producto2.jpeg"
+    "avatar": "assets/images/producto2.jpeg",
+    "rol": 0
   }
 ]
